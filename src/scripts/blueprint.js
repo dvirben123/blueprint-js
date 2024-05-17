@@ -1,3 +1,4 @@
+"use client";
 import { Configuration, configDimUnit } from "./core/configuration";
 import { dimCentiMeter } from "./core/constants";
 import { Model } from "./model/model";
